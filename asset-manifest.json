@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/examen-react-sergio-altuzar/static/css/main.f0d685eb.css",
+    "main.js": "/examen-react-sergio-altuzar/static/js/main.62a5c569.js",
+    "index.html": "/examen-react-sergio-altuzar/index.html",
+    "main.f0d685eb.css.map": "/examen-react-sergio-altuzar/static/css/main.f0d685eb.css.map",
+    "main.62a5c569.js.map": "/examen-react-sergio-altuzar/static/js/main.62a5c569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d685eb.css",
+    "static/js/main.62a5c569.js"
+  ]
+}
